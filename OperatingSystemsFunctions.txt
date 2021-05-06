@@ -1,0 +1,4 @@
+The macOS and iOS "Dock," which resembles a strip, is used for efficiently accessing applications on your computer.   
+You can add applications to your Dock that you often use (messages, email, photos, apps, and more).
+For easy access, applications that you are currently using automatically go into the DocK. 
+You close an app on the Dock by selecting "quit" and remove it from the Dock by selecting "Remove From Dock." 
