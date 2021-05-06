@@ -6,3 +6,6 @@ You close an app on the Dock by selecting "quit" and remove it from the Dock by 
 In Notifications, you select the app that you would like to get alerts from. 
 For instance, if Ring Doorbell is in "Notifications" and someone comes to your door. Your phone will send you an alert in the form of a banner across your screen. 
 The Notifications function is also handy for receiving calendar alerts, phone and message alerts. 
+Apple iOS has another handy feature called "Screen Time."
+Screen Time tracks your daily average screen time, which can be a little shocking if you have spent too much time on your phone. 
+You can also set downtime from your apps and phone calls and set app time limits as well. 
