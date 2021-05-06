@@ -2,3 +2,7 @@ The macOS and iOS "Dock," which resembles a strip, is used for efficiently acces
 You can add applications to your Dock that you often use (messages, email, photos, apps, and more).
 For easy access, applications that you are currently using automatically go into the DocK. 
 You close an app on the Dock by selecting "quit" and remove it from the Dock by selecting "Remove From Dock." 
+"Notifications" is a handy iOS function.
+In Notifications, you select the app that you would like to get alerts from. 
+For instance, if Ring Doorbell is in "Notifications" and someone comes to your door. Your phone will send you an alert in the form of a banner across your screen. 
+The Notifications function is also handy for receiving calendar alerts, phone and message alerts. 
